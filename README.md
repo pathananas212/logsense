@@ -22,7 +22,7 @@ Go to: http://localhost:8501
 ---
 
 ## 🔑 You Need
-- An **OpenAI API key** → get one at https://platform.openai.com/api-keys
+- An **Groq API key** 
 - Python 3.8+
 
 ---
